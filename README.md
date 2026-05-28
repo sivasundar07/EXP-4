@@ -38,7 +38,7 @@ CIRCUIT DIAGRAMS and TABULAR COLUMN
 <img width="1256" height="1600" alt="image" src="https://github.com/user-attachments/assets/5236f15e-f0ff-4808-871c-3e91854add9a" />
 
 Half wave rectifier with filter and without filter:
-<img width="597" height="474" alt="Screenshot 2026-05-28 150811" src="https://github.com/user-attachments/assets/0195051b-2bba-4941-b815-0a9df25e2143" />
+<img width="591" height="507" alt="Screenshot 2026-05-28 150711" src="https://github.com/user-attachments/assets/23e5f915-48b6-4f52-b541-c7ce2d149bf1" />
 
 CIRCUIT DIAGRAMS and TABULAR COLUMN
 <img width="1259" height="1600" alt="image" src="https://github.com/user-attachments/assets/e34cc939-34e6-431c-ad3d-259d13180c50" />
